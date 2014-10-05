@@ -1,0 +1,11 @@
+{
+	"name": "decaf-jolt-static",
+	"version": "0.0.1",
+	"main" : "index.js",
+	"ignore" : [
+	],
+	"dependencies" : {
+	},
+	"devDependencies": {
+	}
+}
